@@ -142,5 +142,5 @@ This project demonstrates the potential of **Machine Learning** and **Cloud Inte
 **Author:** Naveen M  
 **Institution:** Bannari Amman Institute of Technology  
 **Email:** iamnaveen1401@gmail.com  
-**GitHub:** [https://github.com/iamnaveen1401](https://github.com/iamnaveen1401)
+**GitHub:** [https://github.com/iamnaveen1401](https://github.com/iamnaveen1401)  
 **LinkedIn:**[https://www.linkedin.com/in/naveen1401/](https://www.linkedin.com/in/naveen1401/)
